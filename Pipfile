@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+poke-env = "0.9"
+openai = "1.78"
+langfuse = "2.60"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
